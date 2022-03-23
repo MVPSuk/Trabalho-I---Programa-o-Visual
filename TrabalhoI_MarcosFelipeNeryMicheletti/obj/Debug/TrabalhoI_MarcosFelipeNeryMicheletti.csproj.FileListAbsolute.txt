@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\bin\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.exe.config
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\bin\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.exe
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\bin\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.pdb
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\obj\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\obj\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\obj\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.Properties.Resources.resources
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\obj\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\obj\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\obj\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.exe
+C:\Users\Aluno\source\repos\TrabalhoI_MarcosFelipeNeryMicheletti\obj\Debug\TrabalhoI_MarcosFelipeNeryMicheletti.pdb
